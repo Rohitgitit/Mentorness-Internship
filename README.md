@@ -5,25 +5,25 @@ This repository contains projects from my Data Analysis Internship at Mentorness
 
 # Key Features
 
--SQL for Booking Predictions: Improved booking prediction accuracy by 15% through SQL analysis of 1,000+ hotel reservations.
+**-SQL for Booking Predictions:** Improved booking prediction accuracy by 15% through SQL analysis of 1,000+ hotel reservations.
 
--Power BI Dashboards: Created interactive Power BI dashboards analyzing 10,000 YouTube songs to enhance user engagement.
+**-Power BI Dashboards:** Created interactive Power BI dashboards analyzing 10,000 YouTube songs to enhance user engagement.
 
--Data-Driven Presentations: Delivered 3 presentations, including educational reels viewed by 500+ professionals, showcasing data insights.
+**-Data-Driven Presentations:** Delivered 3 presentations, including educational reels viewed by 500+ professionals, showcasing data insights.
 
 # Technologies Used
 
--Programming Languages: SQL
+**-Programming Languages:** SQL
 
--Tools: Power BI, Tableau
+**-Tools:** Power BI, Tableau
 
--Skills: Data Analysis, Data Visualization, Reporting
+**-Skills:** Data Analysis, Data Visualization, Reporting
 
 # Supporting Materials
 
--Code: SQL queries and scripts used for analysis.
+**-Code:** SQL queries and scripts used for analysis.
 
--Dashboards: Power BI and Tableau files showcasing interactive visualizations.
+**-Dashboards:** Power BI and Tableau files showcasing interactive visualizations.
 
--Presentations: PPTs and PDFs summarizing the project insights.
+**-Presentations:** PPTs and PDFs summarizing the project insights.
 Video Explanations: Short educational videos explaining the projects and findings.
